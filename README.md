@@ -1,2 +1,15 @@
 # Asteroids
-Create a game in which users (space ship) on the left side of the screen are shooting asteroids (coming from right side of the screen) for points. For each asteroid they get 100 points, they lose 100 for each that gets through. The user starts with three lives, and loses one for each time they are hit. The user moves up and down and can shoot their laser multiple times. It is up to you how many asteroids are on the screen at a time (must be more than one), how fast they come, how fast they go, and where they come from (it can be random, following the user, etc). You need to show points and lives on the screen as well. You need to keep track of high scores. Have some kind of leveling, either the asteroids get bigger/faster/smarter/etc. I will post my helpful hints on a following announcement.
+How to Play:
+* Controls:
+  > Forward - W or Left Mouse Click
+  > Backward - S or Left Mouse Click + Middle Mouse Click
+  > Turn Left - A or Mouse Movement
+  > Turn Right - D or Mouse Movement
+  > Swap Player Controls - I
+  > Quit the game - Esc
+* Goal:
+  > Your goal is to dodge and destroy as many asteroids as you possibly can.
+* There are also attack speed drops that occasionally drop from the asteroids
+after they've been destroyed.
+# V1.0.0
+* Github Publication
